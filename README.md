@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BACKEND<br>👯 I’m looking to collaborate on Backend and Front end<br>🤝 I’m looking for help with Database and backend<br>🌱 I’m currently learning Mongodb<br>💬 Ask me about javascript, Html, css, tailwindcss<br>⚡ Fun fact none
+🔭 I’m currently working on framworks and librarys<br>👯 I’m looking to collaborate on Backend and Front end<br>🤝 I’m looking for help with Database and backend<br>🌱 I’m currently learning react<br>💬 Ask me about javascript, Html, css, tailwindcss<br>⚡ Fun fact none
 
 
 ## 🌐 Socials:
